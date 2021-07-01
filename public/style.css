@@ -1,0 +1,26 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?cs=srgb&dl=pexels-iconcom-733174.jpg&fm=jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #444;
+    text-align: center;
+    padding: 10% 0;
+   
+    }
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+    font-size: 2rem;;
+}
+
+#dinoImage {
+    max-width: 100%;
+    height: auto;
+}
